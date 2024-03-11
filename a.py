@@ -7,4 +7,4 @@ print("이건 main 브랜치")
 
 print('dngkgkgkgkgkgk')
 
-print('merge 충돌 내')
+print('merge 충돌 내 보자구')

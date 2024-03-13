@@ -1,4 +1,4 @@
-print("hello python")
+print("멋쟁이사자 크앙hello python")
 
 print("안녕")
 
